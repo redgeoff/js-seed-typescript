@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "lib": ["ES5", "DOM", "ES2015.Promise"],
+    "module": "commonjs",
+    "sourceMap": true,
+    "outDir": ""
+  },
+  "include": ["src/**/*"]
+}
